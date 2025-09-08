@@ -1,5 +1,5 @@
 # fuzeteaaddict
-![competence badge](https://img.shields.io/badge/competence-failing-red)
+![skill issue badge](https://img.shields.io/badge/skill-issue-red)
 
 418 enthusiast
 
