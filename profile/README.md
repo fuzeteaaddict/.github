@@ -8,4 +8,4 @@ invincible
 ### **0x7k**
 ![GitHub repo size](https://img.shields.io/github/repo-size/fuzeteaaddict/0x7k)
 
-riceable CLI-based file manager
+riceable CLI-based music player
